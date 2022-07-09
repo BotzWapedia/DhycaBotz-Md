@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6287892711054'] 
-global.mods = [] 
-global.prems = [] 
+global.owner = ['62858727611910,'6285794408499','62895330584590'] 
+global.mods = ['62858727611910,'6285794408499','62895330584590'] 
+global.prems = ['62858727611910,'6285794408499','62895330584590'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Hyzer Official'
-global.numberowner = '6287892711054'
-global.instagram = 'https://instagram.com/hyzer_stfu'
-global.github = 'https://github.com/Hyzerr'
-global.dana = '087892711054'
-global.pulsa = '085212023766'
-global.gopay = '087892711054'
+global.nameowner = 'ᴹᴿ᭄ 𝔸𝕟𝕕𝕙𝕪𝕔𝕒𝔾𝕒𝕟𝕫ོ ×፝֟͜×'
+global.numberowner = ''62858727611910,'6285794408499','62895330584590''
+global.instagram = 'https://instagram.com/andhycarsrofficial'
+global.github = 'https://github.com/BotzWapedia'
+global.dana = '085872761910'
+global.pulsa = '085872761910'
+global.gopay = '085872761910'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Yuno Gasai Bot'
-global.gc = 'bit.ly/AnyaBot-Group'
-global.web = 'https://github.com/Hyzerr' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = '𝐌𝐲𝐚𝐨𝐧𝐢𝐜ᵇᵒᵗ-𝐌𝐝'
+global.gc = 'https://chat.whatsapp.com/DTtOcmrCAkKFrVZJD6jb6M'
+global.web = 'https://instagram.com/andhycarsrofficial' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -25,19 +25,19 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'ꜱʜɪʀᴏ ɪᴋᴀꜱᴀᴋɪ ʙᴏᴛ'
 global.watermark = wm
-global.wm2 = '                     「 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳 あ⁩ 」'
-global.wm3 = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm2 = '                     「 𝙼𝚈𝙰𝙾𝙽𝙸𝙲-𝙼𝙳 あ⁩ 」'
+global.wm3 = '𝙼𝚈𝙰𝙾𝙽𝙸𝙲-𝙼𝙳'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '_*tunggu sedang di proses...*_'
-global.eror = '_*Server Error*_'
-global.benar = 'Benar ✅\n'
-global.salah = 'Salah ❌\n'
-global.stiker_wait = 'Stiker sedang dibuat'
+global.wait = '「⏳」 𝗪𝗮𝗶𝘁, 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 𝗜𝘁𝗲𝗺'
+global.eror = '「⚠️」 𝗦𝗲𝗿𝘃𝗲𝗿 𝗘𝗿𝗼𝗿𝗿'
+global.benar = '「✅」 𝗬𝗼𝘂 𝗔𝗿𝗲 𝗥𝗶𝗴𝗵𝘁\n'
+global.salah = '「❌」 𝗬𝗼𝘂 𝗔𝗿𝗲 𝗪𝗿𝗼𝗻𝗴\n'
+global.stiker_wait = '「⏱️」 𝗦𝘁𝗶𝗰𝗸𝗲𝗿 𝗔𝗿𝗲 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴'
 global.packname = '2022'
-global.author = '© Hyzer Official'
+global.author = '© ᴹᴿ᭄ 𝔸𝕟𝕕𝕙𝕪𝕔𝕒𝔾𝕒𝕟𝕫ོ ×፝֟͜×'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
