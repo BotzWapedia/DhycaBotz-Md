@@ -14,7 +14,7 @@ global.gopay = '085872761910'
 
 //=============『 Info Bot 』=================//
 global.namebot = '𝐌𝐲𝐚𝐨𝐧𝐢𝐜ᵇᵒᵗ-𝐌𝐝'
-global.gc = 'https://chat.whatsapp.com/DTtOcmrCAkKFrVZJD6jb6M'
+global.gc = 'https://chat.whatsapp.com/HELzahc0jAvFZA6bJIbzFQ'
 global.web = 'https://instagram.com/andhycarsrofficial' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
