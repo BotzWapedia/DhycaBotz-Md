@@ -19,8 +19,8 @@ global.web = 'https://instagram.com/andhycarsrofficial' //ubah jadi website lu, 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/8d79a3d58a38304d680d3.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/8d79a3d58a38304d680d3.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'ꜱʜɪʀᴏ ɪᴋᴀꜱᴀᴋɪ ʙᴏᴛ'
@@ -29,7 +29,7 @@ global.wm2 = '                     「 𝙼𝚈𝙰𝙾𝙽𝙸𝙲-𝙼𝙳 あ
 global.wm3 = '𝙼𝚈𝙰𝙾𝙽𝙸𝙲-𝙼𝙳'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://telegra.ph/file/8d79a3d58a38304d680d3.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '「⏳」 𝗪𝗮𝗶𝘁, 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 𝗜𝘁𝗲𝗺'
 global.eror = '「⚠️」 𝗦𝗲𝗿𝘃𝗲𝗿 𝗘𝗿𝗼𝗿𝗿'
